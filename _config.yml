@@ -1,0 +1,14 @@
+title: Aarthi's blog
+description: Thoughts, tutorials, and cooking.
+url: "https://<Aarthi2211>.github.io"   # replace with your GitHub username
+baseurl: "/my-blog"                         # since your repo name is my-blog
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+author:
+  name: Aarthi
+  email: aarthichammanthraj@gmail.com
+
+markdown: kramdown
